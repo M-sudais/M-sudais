@@ -5,7 +5,10 @@
 🚀 On a mission to break into Data Science, AI, and tech in general!
 
 ## 🧰 Projects
-- [To-Do List App](https://github.com/M-sudais/To-Do-List-App) — CLI app to manage tasks with saving/loading
+- [To-Do List App](https://github.com/M-sudais/To-Do-List-App) — CLI app to manage tasks with saving/loading  
+- [Banking App](https://github.com/M-sudais/Banking-app) — GUI app built with Tkinter for creating accounts, deposits, withdrawals, and transfers  
+- [Chatbot](https://github.com/M-sudais/Chatbot) — Terminal chatbot that answers questions, plays games, tells time/date, and generates passwords  
+- [Car Factory System](https://github.com/M-sudais/CarFactorySystem) — OOP-based CLI app to simulate building, storing, and managing car details  
 - More projects coming soon...
 
 ## 🛤️ Learning Roadmap
